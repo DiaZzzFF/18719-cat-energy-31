@@ -48,14 +48,14 @@
 }
 
 .advantages__item--food {
-  &::before  {
+  &::before {
     background-image: url("../../icons/stack.svg#icon-food");
     background-size: 25px 30px;
   }
 }
 
 .advantages__item--weight {
-  &::before  {
+  &::before {
     background-image: url("../../icons/stack.svg#icon-weight");
     background-size: 25px 31px;
   }
